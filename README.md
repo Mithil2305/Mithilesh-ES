@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mithilesh ES
 
-🚀 Developer | 🎨 UI/UX Designer | 🧠 AI & Data Science Enthusiast  
+🚀 Developer | 🎨 Designer | 🧠 AI & Data Science Enthusiast  
 Founder of [Mud Media](https://mudmedia.in) | Building digital experiences that are clean, fast & impactful  
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readme)](https://drive.google.com/file/d/1UG5kNhaXU5V1sRrEXAMPLE/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readme)](https://drive.google.com/file/d/1oQFjJxqzWGXGq0utbtbPWbrnisXcbWJn/view?usp=sharing)
 
 ---
 
@@ -62,29 +62,6 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
   *Figma Prototypes*  
   Designed mobile-first e-commerce UX with intuitive layouts.  
   [View Case Study](https://mudmedia.in/asserts/projects/uiux/greenmart.pdf)
-
----
-
-### 🌍 Work Experience
-
-- **Founder – Mud Media**  
-  Full-service creative agency | Web Dev, UI/UX, Branding  
-  → [mudmedia.in](https://mudmedia.in)
-
-- **Wildlife Valparai – Web Developer**  
-  Built an informative tourism site with responsive design  
-  → [wildlifevalparai.com](https://www.wildlifevalparai.com)
-
-- **DigDes Studio – Developer**  
-  Created SEO-optimized blog platform for multi-niche content  
-  → [digdes-studio.blogspot.com](https://digdes-studio.blogspot.com)
-
----
-
-## 📚 Education
-
-**B.Tech – Artificial Intelligence & Data Science**  
-Sri Krishna College of Technology, Coimbatore (2023–2027)
 
 ---
 

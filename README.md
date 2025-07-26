@@ -65,7 +65,7 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mithil2305&show_icons=true&theme=radical" width="47%" />
@@ -74,11 +74,22 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mithil2305?theme=dark&font=Source+Code+Pro&ext=contest" />
+</p>
+
+- 📈 Visit my profile: [leetcode.com/u/Mithil2305](https://leetcode.com/u/Mithil2305/)
+- ✅ Track: Problems Solved, Daily Streak, and Contest Rating
+
+---
+
 ## 📫 Contact Me
 
 - ✉️ Email: [mail.mithilesh.es@gmail.com](mailto:mail.mithilesh.es@gmail.com)
 - 🌐 Portfolio: [mudmedia.in/portfolio](https://mudmedia.in/portfolio)
-- 💼 Resume: [Click to View](https://drive.google.com/file/d/1UG5kNhaXU5V1sRrEXAMPLE/view?usp=sharing)
+- 💼 Resume: [Click to View](https://drive.google.com/file/d/1oQFjJxqzWGXGq0utbtbPWbrnisXcbWJn/view?usp=sharing)
 - 🔗 LinkedIn: [linkedin.com/in/mithilesh-es](https://linkedin.com/in/mithilesh-es)
 - 🧑‍💻 GitHub: [github.com/Mithil2305](https://github.com/Mithil2305)
 

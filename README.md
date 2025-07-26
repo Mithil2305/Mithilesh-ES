@@ -20,6 +20,15 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithil2305&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithil2305&theme=radical" width="47%" />
+</p>
+
+---
+
 ## 🧩 LeetCode Stats
 
 <p align="center">
@@ -64,16 +73,6 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
   *Figma Prototypes*  
   Designed mobile-first e-commerce UX with intuitive layouts.  
   [View Case Study](https://mudmedia.in/asserts/projects/uiux/greenmart.pdf)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithil2305&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithil2305&theme=radical" width="47%" />
-</p>
-
 
 ---
 

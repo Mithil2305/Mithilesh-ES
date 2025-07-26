@@ -2,7 +2,8 @@
 
 🚀 Developer | 🎨 Designer | 🧠 AI & Data Science Enthusiast  
 Founder of [Mud Media](https://mudmedia.in) | Building digital experiences that are clean, fast & impactful  
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readme)](https://drive.google.com/file/d/1oQFjJxqzWGXGq0utbtbPWbrnisXcbWJn/view?usp=sharing)
+
+[![ Resume ](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readme)](https://drive.google.com/file/d/1oQFjJxqzWGXGq0utbtbPWbrnisXcbWJn/view?usp=sharing)
 
 ---
 

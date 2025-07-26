@@ -1,83 +1,112 @@
-# 👋 Hey there! I'm Mithilesh ES
+# 👋 Hi, I'm Mithilesh ES
 
-🚀 Passionate Full Stack Developer | 🎨 Creative Technologist | 🧠 Lifelong Learner  
+🚀 Developer | 🎨 UI/UX Designer | 🧠 AI & Data Science Enthusiast  
+Founder of [Mud Media](https://mudmedia.in) | Building digital experiences that are clean, fast & impactful  
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=readme)](https://drive.google.com/file/d/1UG5kNhaXU5V1sRrEXAMPLE/view?usp=sharing)
 
-Welcome to my GitHub! I’m a developer who blends **engineering** with **design thinking** to build scalable and beautiful digital experiences. I love working on challenging full-stack applications, automation tools, and creative side projects. When I'm not coding, I’m probably exploring new tech, solving DSA problems, or brainstorming business ideas.
+---
+
+## 💡 Introduction
+
+I’m an experienced developer/designer passionate about creating clean, user-centric solutions. Whether it’s a full-stack web app, a deep learning model, or a dynamic UI — I bring thoughtful design and efficient code to every project. I also run **Mud Media**, a digital agency where we’ve delivered 25+ client projects across industries.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Skills
 
-**Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages**  
+C++ | Python | Java | JavaScript | MySQL | HTML/CSS
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**Frameworks & Tools**  
+React.js | Tailwind CSS | Spring Boot | Flask | Firebase | REST APIs | Docker | Figma | Git & GitHub | Vercel
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-
-**Databases & Auth:**  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat&logo=razorpay)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Creative & Soft Skills**  
+UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Leadership | Communication
 
 ---
 
-## 🔥 Featured Projects
+## 🧠 Projects & Work Experience
 
-Here are some cool things I've built recently 👇
+### 🔥 Featured Projects
 
-### 🎙️ Voice Assistant AI  
-**React + Flask + Firebase + Gemini API**  
-A full-stack AI assistant that supports voice interaction, smart replies, and dynamic personalities.
+- **🎙️ Voice Assistant AI**  
+  *React + Flask + Firebase + Gemini API*  
+  Full-stack voice assistant with smart replies and dynamic personalities.  
 
-### 📈 CRM Deal Tracker  
-**React + Firebase**  
-Pipeline-based CRM for managing sales, lead status, login hours, and team productivity with access controls.
+- **🛒 Full Stack E-Commerce App**  
+  *React, Firebase, Tailwind CSS*  
+  Auth, real-time orders, cart, product filters, and admin dashboard.  
+  [GitHub](https://github.com/Mithil2305/Full-Stack-E-commerce.git)
 
-### 💼 Mud Media Internal Tools  
-A suite of productivity tools like invoice generators, employee trackers, and automation panels for internal use at [Mud Media](https://mudmedia.in).
+- **🌱 Plant Disease Detection**  
+  *Python, TensorFlow, CNN*  
+  Trained a model to classify plant leaf diseases with high accuracy.  
+  [GitHub](https://github.com/Mithil2305/plant_disease_detection.git)
 
-### 🛒 Full Stack E-Commerce  
-React frontend with admin panel, Razorpay integration, Firebase auth, and real-time analytics.
+- **🧘‍♂️ Fitness Wellness App**  
+  *Spring Boot + HTML/CSS + JavaScript*  
+  Tracks BMI, yoga, mental health, and wellness tips.  
+  [GitHub](https://github.com/Mithil2305/fitness-wellness-app.git)
 
-➡️ **Explore all my projects in the [Repositories tab](https://github.com/Mithil2305?tab=repositories)**
+- **🩸 Blood Donation App**  
+  *React + Hooks + Router*  
+  Lets users register, request, and find blood donors.  
+  [GitHub](https://github.com/Mithil2305/blood-donation-app.git)
+
+- **🎨 Color Picker Tool**  
+  *React + Tailwind*  
+  Clean UI with hex code copying, real-time preview.  
+  [GitHub](https://github.com/Mithil2305/color-picker.git)
+
+- **🛍️ GreenMart UI/UX for SIH 2024**  
+  *Figma Prototypes*  
+  Designed mobile-first e-commerce UX with intuitive layouts.  
+  [View Case Study](https://mudmedia.in/asserts/projects/uiux/greenmart.pdf)
 
 ---
 
-## 📊 GitHub Stats
+### 🌍 Work Experience
+
+- **Founder – Mud Media**  
+  Full-service creative agency | Web Dev, UI/UX, Branding  
+  → [mudmedia.in](https://mudmedia.in)
+
+- **Wildlife Valparai – Web Developer**  
+  Built an informative tourism site with responsive design  
+  → [wildlifevalparai.com](https://www.wildlifevalparai.com)
+
+- **DigDes Studio – Developer**  
+  Created SEO-optimized blog platform for multi-niche content  
+  → [digdes-studio.blogspot.com](https://digdes-studio.blogspot.com)
+
+---
+
+## 📚 Education
+
+**B.Tech – Artificial Intelligence & Data Science**  
+Sri Krishna College of Technology, Coimbatore (2023–2027)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithil2305&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithil2305&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithil2305&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithil2305&theme=radical" width="47%" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact Me
 
-- 💼 Portfolio: *Coming Soon*
-- 🌐 Website: [www.mudmedia.in](https://www.mudmedia.in)
-- 📧 Email: [mithileshelango@gmail.com](mailto:mithileshelango@gmail.com)
-- 📄 Resume: [Click to view](https://drive.google.com/file/d/1UG5kNhaXU5V1sRrEXAMPLE/view?usp=sharing)
-- 💬 LinkedIn: [linkedin.com/in/mithilesh-es](https://linkedin.com/in/mithilesh-es)
+- ✉️ Email: [mail.mithilesh.es@gmail.com](mailto:mail.mithilesh.es@gmail.com)
+- 🌐 Portfolio: [mudmedia.in/portfolio](https://mudmedia.in/portfolio)
+- 💼 Resume: [Click to View](https://drive.google.com/file/d/1UG5kNhaXU5V1sRrEXAMPLE/view?usp=sharing)
+- 🔗 LinkedIn: [linkedin.com/in/mithilesh-es](https://linkedin.com/in/mithilesh-es)
+- 🧑‍💻 GitHub: [github.com/Mithil2305](https://github.com/Mithil2305)
 
 ---
 
-_“The only way to do great work is to love what you do.” – Steve Jobs_
+> _"Code is the closest thing we have to magic. Design is how it feels."_  
 
-Thanks for stopping by! ⭐️
+Thanks for visiting! If you like what I do, ⭐️ a repo or let’s connect!

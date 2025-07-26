@@ -6,12 +6,6 @@ Founder of [Mud Media](https://mudmedia.in) | Building digital experiences that 
 
 ---
 
-## 💡 Introduction
-
-I’m an experienced developer/designer passionate about creating clean, user-centric solutions. Whether it’s a full-stack web app, a deep learning model, or a dynamic UI — I bring thoughtful design and efficient code to every project. I also run **Mud Media**, a digital agency where we’ve delivered 25+ client projects across industries.
-
----
-
 ## 🛠️ Skills
 
 **Languages**  
@@ -25,13 +19,20 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mithil2305?theme=dark&font=Source+Code+Pro&ext=contest" />
+</p>
+
+- 📈 Visit my profile: [leetcode.com/u/Mithil2305](https://leetcode.com/u/Mithil2305/)
+- ✅ Track: Problems Solved, Daily Streak, and Contest Rating
+
+---
+
 ## 🧠 Projects & Work Experience
 
 ### 🔥 Featured Projects
-
-- **🎙️ Voice Assistant AI**  
-  *React + Flask + Firebase + Gemini API*  
-  Full-stack voice assistant with smart replies and dynamic personalities.  
 
 - **🛒 Full Stack E-Commerce App**  
   *React, Firebase, Tailwind CSS*  
@@ -72,16 +73,6 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithil2305&theme=radical" width="47%" />
 </p>
 
----
-
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mithil2305?theme=dark&font=Source+Code+Pro&ext=contest" />
-</p>
-
-- 📈 Visit my profile: [leetcode.com/u/Mithil2305](https://leetcode.com/u/Mithil2305/)
-- ✅ Track: Problems Solved, Daily Streak, and Contest Rating
 
 ---
 
